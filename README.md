@@ -1,7 +1,3 @@
-Here's an updated version of the README that focuses on what participants need to do—specifically, to go through the stolen drives using the custom program you've built:
-
----
-
 # Project Outbreak 2054
 
 ## Welcome to Project Outbreak 2054
